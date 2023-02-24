@@ -248,3 +248,8 @@ $RECYCLE.BIN/
 
 # .png
 *.png
+
+
+# enviroments
+env_app
+env_game
