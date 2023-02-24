@@ -253,3 +253,4 @@ $RECYCLE.BIN/
 # enviroments
 env_app
 env_game
+env_web-server
